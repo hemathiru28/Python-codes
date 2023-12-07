@@ -1,2 +1,2 @@
 # python
-These are python practice problems.
+These are python practice problems
